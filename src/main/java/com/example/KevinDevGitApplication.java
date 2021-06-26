@@ -10,6 +10,7 @@ public class KevinDevGitApplication {
         SpringApplication.run(KevinDevGitApplication.class, args);
 
         System.out.println("test1");
+        System.out.println("release 0.0.1");
     }
 
 }
