@@ -56,8 +56,14 @@ MainApplication에서만 동작을 테스트했습니다.
 
 ## Release Notes
 * 0.0.1
-    * 테스트
+    * release
+* 0.0.2
+    * hotfix
 
+### Work flow
+
+- [Work flow](./docs/work-flow.md)
+  
 ## Issues
 없습니다.
 
