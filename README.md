@@ -72,7 +72,7 @@ ozofweird
 
 ## References
 - [나의 Git Flow 적응기](https://jeong-pro.tistory.com/196)
-
+- [GitKraken Tutorial](https://www.youtube.com/watch?v=eTOgjQ9o4vQ)
 ---
 
 ## Commit messages (Gitmoji)
