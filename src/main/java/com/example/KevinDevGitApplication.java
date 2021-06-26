@@ -11,6 +11,7 @@ public class KevinDevGitApplication {
 
         System.out.println("test1");
         System.out.println("release 0.0.1");
+        System.out.println("hotfix 0.0.2");
     }
 
 }
